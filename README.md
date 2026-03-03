@@ -8,4 +8,4 @@
 2. ダウンロードしたフォルダの「main_lev001.exe」ファイルをダブルクリックして起動します。
 ##スクリーンショット
 ゲーム画面のイメージです。
-![タイトル画面](portfolio/turtle_game_picture.png)
+![タイトル画面](turtle_game_picture.png)
